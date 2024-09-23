@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CompanyInfo renders the snapshot correctly -- modern approach 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      Company Info!!....
+    </h2>
+    <p>
+      Company Name:
+      <span>
+        IBM
+      </span>
+    </p>
+    <p>
+      Founder Year:
+      <span>
+        1950
+      </span>
+    </p>
+    <p>
+      Employees Count:
+      <span>
+        23457
+      </span>
+    </p>
+  </div>
+</DocumentFragment>
+`;
