@@ -146,11 +146,8 @@ Test
     REST API Call  
       Mocks [DONE]
         replacing objects with mocks 
-      Spies 
+      Spies [DONE]
         replacing one property of an object with a spy
-
-    
-    
 
     Test Reducer 
     Test Context 
