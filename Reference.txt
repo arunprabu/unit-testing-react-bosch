@@ -115,6 +115,10 @@ Bad Testing Practices
 Good Testing Practices 
 =========
 RTL Guiding Principle 
+
+Query Priority
+  refer: https://testing-library.com/docs/queries/about/#priority
+
 =========
 
 Code Coverage 
@@ -129,17 +133,30 @@ Test
     States [DONE]
     Events [DONE]
     Snapshot Testing [DONE]
+    Test CSS Class 
+    Test CSS Style 
+    Testing Forms 
+      Link: https://github.com/arunprabu/react-unit-testing-sep2022-batch2/blob/master/src/components/ContactForm/ContactForm.js
+      Link: https://github.com/arunprabu/react-unit-testing-sep2022-batch2/blob/master/src/components/ContactForm/ContactForm.test.js
+
+    Testing React Hook Form 
+      Link: https://react-hook-form.com/advanced-usage#TestingForm
+
     
     REST API Call  
-      Mocks 
+      Mocks [DONE]
+        replacing objects with mocks 
       Spies 
+        replacing one property of an object with a spy
+
+    
+    
 
     Test Reducer 
     Test Context 
     
-    
 
-
+Todos Review
 
 ===
 

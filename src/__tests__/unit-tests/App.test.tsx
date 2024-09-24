@@ -1,5 +1,4 @@
 // Test Pattern: AAA (Arrange, Act, Assert )
-
 import { render, screen } from '@testing-library/react'; // render the sample
 import App from '../../App';
 
